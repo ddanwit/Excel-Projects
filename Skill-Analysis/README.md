@@ -12,7 +12,7 @@
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/973b928c-a1c9-4a5f-9d94-f4ca2503d165" />
 
-[Скачать проект (.xlsx)]
+[Скачать проект (.xlsx)](https://github.com/ddanwit/Excel-Projects/raw/refs/heads/main/Skill-Analysis/Project2.xlsx)
 # Примеры использования инструментов
 ### 1. Power Query
 Был использован для загрузки данных, их изменения и создания новой таблицы, на основании первоначального датасета.
